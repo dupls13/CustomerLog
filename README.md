@@ -14,6 +14,7 @@ Hitting "Submit" will post the entries on the right
 
 *** Future Directions ***
 - Add more fields for input 
+- Automate restructering phone field (xxxxxxxxxx to xxx-xxx-xxxx)
 - Submit fields into .csv, .db file 
 - Visual design improvements 
 - Reformat code 
